@@ -1,2 +1,2 @@
-# May-n-Tarlas-Java
-Java ile kodlanmış basit msyın tarlası oyunu
+# MayinTarlasiJava
+Java ile kodlanmış basit mayın tarlası oyunu
